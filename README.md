@@ -1,5 +1,5 @@
 # ValorantAssets
-Jump some files so that I don't have to rely on Riot's links to stay stable
+Just some files so that I don't have to rely on Riot's links to stay stable
 
 # Disclaimer
 This repo isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties. Riot Games, and all associated properties are trademarks or registered trademarks of Riot Games, Inc.
